@@ -1,0 +1,4 @@
+cryptography
+pyjwt[crypto]
+bcrypt
+requests
